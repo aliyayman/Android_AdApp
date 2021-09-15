@@ -1,4 +1,4 @@
 # Android_AdApp
-**Banner AD**<br>
-**Interstitial AD**<br>
-**Rewarded AD**
+*-Banner AD*<br>
+*-Interstitial AD*<br>
+*-Rewarded AD*
